@@ -5,6 +5,6 @@ int main(){
 	int b=5;
 	int c;
 	c=a+b;
-	cout<<c;
+	cout<<"the syum is:"<<c;
 	return 0;
 }
